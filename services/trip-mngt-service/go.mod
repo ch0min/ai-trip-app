@@ -1,3 +1,3 @@
-module gibhub/ch0min/ai-trip-app/services/user-service
+module github/ch0min/ai-trip-app/services/trip-mngt-service
 
 go 1.23.0
